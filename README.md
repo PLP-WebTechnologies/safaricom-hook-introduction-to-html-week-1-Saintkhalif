@@ -16,10 +16,47 @@ By completing this assignment, you will:
   1. HTML5 Basics
 Learn the structure of an HTML document (e.g., <!DOCTYPE html>, <html>, <head>, <body>).
 Explore core elements such as headings, paragraphs, lists, links, and images.
-  2. Semantic HTML
+
+Headings
+
+Used for titles and subtitles.
+Tags: <h1> to <h6> (largest to smallest).
+
+<h1>Main Heading</h1>
+<h2>Subheading</h2>
+Paragraphs
+
+Used to display blocks of text.
+Tag: <p>.
+
+<p>This is a paragraph of text.</p>
+Lists
+
+Ordered List: Numbered items.
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+</ol>
+Unordered List: Bulleted items.
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+</ul>
+Links
+
+Used to create hyperlinks.
+Tag: <a> with the href attribute.
+html
+<a href="https://example.com">Visit Example</a>
+Images
+Used to display images.
+Tag: <img> with src (source) and alt (alternative text) attributes.
+html
+<img src="image.jpg" alt="Description of the image">
+  3. Semantic HTML
 Introduction to semantic tags like <header>, <footer>, <nav>, <section>, and <article>.
 Learn how semantic elements improve content readability and support SEO.
-  3. Accessibility and SEO Basics
+  4. Accessibility and SEO Basics
 Understand the importance of accessible HTML and SEO-friendly practices.
 Use attributes like alt, title, and semantic structures to improve usability.
 
